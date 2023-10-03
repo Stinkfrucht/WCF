@@ -24,10 +24,6 @@
 	{/if}
 {/if}
 
-{if !VISITOR_USE_TINY_BUILD}
-	<p class="info">{lang}wcf.acp.index.tinyBuild{/lang}</p>
-{/if}
-
 {if $missingLanguageItemsMTime}
 	<p class="warning">{lang}wcf.acp.index.missingLanguageItems{/lang}</p>
 {/if}
