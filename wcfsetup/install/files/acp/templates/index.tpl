@@ -24,10 +24,6 @@
 	{/if}
 {/if}
 
-{if $recaptchaWithoutKey}
-	<p class="error">{lang}wcf.acp.index.recaptchaWithoutKey{/lang}</p>
-{/if}
-
 {if !VISITOR_USE_TINY_BUILD}
 	<p class="info">{lang}wcf.acp.index.tinyBuild{/lang}</p>
 {/if}
