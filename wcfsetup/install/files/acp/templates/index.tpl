@@ -32,10 +32,6 @@
 	<p class="info">{lang}wcf.acp.index.tinyBuild{/lang}</p>
 {/if}
 
-{if $usersAwaitingApproval}
-	<p class="info">{lang}wcf.acp.user.usersAwaitingApprovalInfo{/lang}</p>
-{/if}
-
 {if $missingLanguageItemsMTime}
 	<p class="warning">{lang}wcf.acp.index.missingLanguageItems{/lang}</p>
 {/if}
