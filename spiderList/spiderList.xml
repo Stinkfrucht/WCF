@@ -1695,4 +1695,8 @@
 		<name>GPTBot</name>
 		<url>https://openai.com/gptbot</url>
 	</spider>
+	<spider ident="updown.io/">
+		<name>updown.io</name>
+		<url>https://updown.io</url>
+	</spider>
 </data>
