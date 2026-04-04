@@ -1778,4 +1778,8 @@
 		<name>Quillbot</name>
 		<url>https://quillbot.com/</url>
 	</spider>
+	<spider ident="updown.io daemon 2.11/">
+		<name>updown.io Uptime Monitoring Bot Bot</name>
+		<url>https://updown.io/</url>
+	</spider>
 </data>
